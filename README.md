@@ -1,5 +1,111 @@
-## Hi there 👋
-- 🌱 I’m currently learning ...
+<img width="1012" height="628" alt="ascii-profile" src="https://github.com/user-attachments/assets/84ba3db2-787a-4bd7-a788-6c4dbcf343ba" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="628" viewBox="0 0 1012 628" role="img" aria-label="Aryan">
+  <rect width="1012" height="628" rx="10" fill="#282a36" stroke="#6272a4" />
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="8.37">
+    <text x="28" y="69.7" xml:space="preserve" fill="#f8f8f2">                      .</text>
+    <text x="28" y="79.0" xml:space="preserve" fill="#f8f8f2">                 ......</text>
+    <text x="28" y="88.3" xml:space="preserve" fill="#f8f8f2">               ...              .      .+@@</text>
+    <text x="28" y="97.6" xml:space="preserve" fill="#f8f8f2">               .               @**#- +*##@</text>
+    <text x="28" y="106.8" xml:space="preserve" fill="#f8f8f2">              ..              +*##**##@#@</text>
+    <text x="28" y="116.1" xml:space="preserve" fill="#f8f8f2">             ..            .  *-*####@+@</text>
+    <text x="28" y="125.4" xml:space="preserve" fill="#f8f8f2">            ..              .+**######++#</text>
+    <text x="28" y="134.7" xml:space="preserve" fill="#f8f8f2">           ..             -#@@######@@@@+@+</text>
+    <text x="28" y="144.0" xml:space="preserve" fill="#f8f8f2">          ..             @#@##+*#@@######-</text>
+    <text x="28" y="153.3" xml:space="preserve" fill="#f8f8f2">        ...                  .*@@@#</text>
+    <text x="28" y="162.6" xml:space="preserve" fill="#f8f8f2">      ...                    +##@-</text>
+    <text x="28" y="171.9" xml:space="preserve" fill="#f8f8f2">     ..  .                   -@@</text>
+    <text x="28" y="181.2" xml:space="preserve" fill="#f8f8f2">     .....</text>
+    <text x="28" y="190.5" xml:space="preserve" fill="#f8f8f2">         .</text>
+    <text x="28" y="199.7" xml:space="preserve" fill="#f8f8f2">         .</text>
+    <text x="28" y="209.0" xml:space="preserve" fill="#f8f8f2">         ..</text>
+    <text x="28" y="218.3" xml:space="preserve" fill="#f8f8f2">         .</text>
+    <text x="28" y="227.6" xml:space="preserve" fill="#f8f8f2">        ..</text>
+    <text x="28" y="236.9" xml:space="preserve" fill="#f8f8f2">        .                    .     .</text>
+    <text x="28" y="246.2" xml:space="preserve" fill="#f8f8f2">        .           ..+*+++#*+++*-*###****++++-++---. ---.</text>
+    <text x="28" y="255.5" xml:space="preserve" fill="#f8f8f2">        .       .--+#*+---**-++@@-**#*******+*******----**+.-..---+-.</text>
+    <text x="28" y="264.8" xml:space="preserve" fill="#f8f8f2">       ..    .++*+-*+.++@+--+#@@#-+#**#********++#*+-+---*#--..---..+**+</text>
+    <text x="28" y="274.1" xml:space="preserve" fill="#f8f8f2">       .    .*#*#++--*@##-.+**+@#-*@++**#***+##****-+--++**-+-@@#+--..-+</text>
+    <text x="28" y="283.4" xml:space="preserve" fill="#f8f8f2">       .               -*++*@@@@@-++++**##*#+--+##+++-*+......+*#@@@#+--</text>
+    <text x="28" y="292.7" xml:space="preserve" fill="#f8f8f2">     ..    .-++*+++-++-     +#@@@#++++#***###-+-...                 .-++</text>
+    <text x="28" y="301.9" xml:space="preserve" fill="#f8f8f2"> .....  -@.-*+++-***@@@@@@+.   *#@-++-+*#**#*.......#@@@@@#*++@@@#*.</text>
+    <text x="28" y="311.2" xml:space="preserve" fill="#f8f8f2"> .     .    -*+-.@#-+.-.+#@@*-   +.  -..-++.-  -**#@@@@@@@@@*-@@@@@@@@+</text>
+    <text x="28" y="320.5" xml:space="preserve" fill="#f8f8f2"> ..        .-*+--@       +--++-+   #+++   +- .*@@@@#*##@@@@@@@@@@*+*#@@@</text>
+    <text x="28" y="329.8" xml:space="preserve" fill="#f8f8f2">  ..  -@@@@@#**+-@@@@+  -@####++.  -..-  ** .*###@*+++++++-+++++*-</text>
+    <text x="28" y="339.1" xml:space="preserve" fill="#f8f8f2">   .. -@@@##@@*+-@@@@.  .#**#@#-+ +#@@@*-*. .@@@@@@@#####@@@@@###*  -#*.</text>
+    <text x="28" y="348.4" xml:space="preserve" fill="#f8f8f2">    . .@@@##@@#+-@@@@  ..##-+*#-  -@@@@@@+ . *#@@@@@#######@#@####  *@@@</text>
+    <text x="28" y="357.7" xml:space="preserve" fill="#f8f8f2">    .  *@@#***##@@@@@  . #@@@@#+  -@@@@@@+. .#*#@@@@*#######@@###@  *@@@</text>
+    <text x="28" y="367.0" xml:space="preserve" fill="#f8f8f2">  .. . -@@@#*#@@@@@@@     --+*++  @@@@@@@@- -+*@@@@@#@@@@@@@@@###@  #@@@</text>
+    <text x="28" y="376.3" xml:space="preserve" fill="#f8f8f2"> ... .  *@@#*###@@@@@@  ....  -  +@@@@@@@@+ .   @@@@..+***#@@@@@@@- @@@@</text>
+    <text x="28" y="385.6" xml:space="preserve" fill="#f8f8f2"> .... .  *@#*###@@@@*@@@*++*@-  .@@@@@@@@@@. -  #@@@*           .. -@@@@</text>
+    <text x="28" y="394.9" xml:space="preserve" fill="#f8f8f2">       .  +@@@###@@.@-.+*#**-  .@@@@@@@@@@@@  - *@@@@#+-.... .    +@@@@@</text>
+    <text x="28" y="404.1" xml:space="preserve" fill="#f8f8f2">        .   *@@@@@@@@@@@@@@.  *@@@@@@@@@@@@@@  .-#@@@@ *@@@###@@@@@@.-@@</text>
+    <text x="28" y="413.4" xml:space="preserve" fill="#f8f8f2">          ..  .*@@@@@@@@+   +@@@@@@@@@@@@@@@@@.  .*@@@@*- ..++*+-..-#@@@</text>
+    <text x="28" y="422.7" xml:space="preserve" fill="#f8f8f2">            ...          -@@@@@@@@@@@@@@@@@@@@@@.   +#@@@@@@##++#@@@@@#</text>
+    <text x="28" y="432.0" xml:space="preserve" fill="#f8f8f2">                 .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+    .+*#@@@@@@@#*.</text>
+    <text x="28" y="441.3" xml:space="preserve" fill="#f8f8f2">                    +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-              -@@</text>
+    <text x="28" y="450.6" xml:space="preserve" fill="#f8f8f2">                      +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#####@@@@@@@</text>
+    <text x="28" y="459.9" xml:space="preserve" fill="#f8f8f2">                        -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="28" y="469.2" xml:space="preserve" fill="#f8f8f2">                          .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="28" y="478.5" xml:space="preserve" fill="#f8f8f2">.                           +@+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="28" y="487.8" xml:space="preserve" fill="#f8f8f2">.                         .        .+##@@@@@@##@#@@@@@@@@@@@@@@#########</text>
+    <text x="28" y="497.1" xml:space="preserve" fill="#f8f8f2">.                       ...               .+#************####@@@@@@@####</text>
+    <text x="28" y="506.3" xml:space="preserve" fill="#f8f8f2">..                     ..                    #@#####**##*+.   .</text>
+    <text x="28" y="515.6" xml:space="preserve" fill="#f8f8f2"> .                    ..                   .  *@@@@@@@*-</text>
+    <text x="28" y="524.9" xml:space="preserve" fill="#f8f8f2"> .                   ..                        .#@@+    -</text>
+    <text x="28" y="534.2" xml:space="preserve" fill="#f8f8f2"> ..                  .  ....              -            ..</text>
+    <text x="28" y="543.5" xml:space="preserve" fill="#f8f8f2">  ..                ..  .  .                           -</text>
+    <text x="28" y="552.8" xml:space="preserve" fill="#f8f8f2">   .    .            .  .  .                          ..</text>
+    <text x="28" y="562.1" xml:space="preserve" fill="#f8f8f2">   .           .......  ....      ...                 -</text>
+  </g>
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="20">
+    <text x="423.6" y="43.6" xml:space="preserve" fill="#50fa7b">aryan@aryan-gour127</text>
+    <line x1="668.6" y1="37.2" x2="984.0" y2="37.2" stroke="#6272a4" stroke-width="1.6" stroke-linecap="round" />
+    <text x="423.6" y="95.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Host:</tspan></text>
+    <text x="519.6" y="95.6" xml:space="preserve" fill="#6272a4">................................</text>
+    <text x="984.0" y="95.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">india</text>
+    <text x="423.6" y="121.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Programming:</tspan></text>
+    <text x="603.6" y="121.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="121.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">Python,JavaScript,TypeScr…</text>
+    <text x="984.0" y="147.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">stack</text>
+    <text x="423.6" y="199.6" xml:space="preserve"><tspan fill="#50fa7b">- Contact </tspan><tspan fill="#6272a4">────────────────────────────────────</tspan></text>
+    <text x="423.6" y="225.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Email:</tspan></text>
+    <text x="531.6" y="225.6" xml:space="preserve" fill="#6272a4">...............</text>
+    <text x="984.0" y="225.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">index.aryan@gmail.com</text>
+    <text x="423.6" y="251.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">GitHub:</tspan></text>
+    <text x="543.6" y="251.6" xml:space="preserve" fill="#6272a4">......................</text>
+    <text x="984.0" y="251.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">Aryan-gour127</text>
+    <text x="423.6" y="277.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">LinkedIn:</tspan></text>
+    <text x="567.6" y="277.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="277.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://www.linkedin.com/in/…</text>
+    <text x="423.6" y="303.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Website:</tspan></text>
+    <text x="555.6" y="303.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="303.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://aryangourportfolio.ve…</text>
+    <text x="423.6" y="355.6" xml:space="preserve"><tspan fill="#50fa7b">- GitHub Stats </tspan><tspan fill="#6272a4">───────────────────────────────</tspan></text>
+    <text x="423.6" y="381.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Repos:</tspan></text>
+    <text x="531.6" y="381.6" xml:space="preserve" fill="#6272a4">..................................</text>
+    <text x="984.0" y="381.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">17</text>
+    <text x="423.6" y="407.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Stars:</tspan></text>
+    <text x="531.6" y="407.6" xml:space="preserve" fill="#6272a4">..................................</text>
+    <text x="984.0" y="407.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">25</text>
+    <text x="423.6" y="433.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Followers:</tspan></text>
+    <text x="579.6" y="433.6" xml:space="preserve" fill="#6272a4">...............................</text>
+    <text x="984.0" y="433.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">2</text>
+    <text x="423.6" y="485.6" xml:space="preserve"><tspan fill="#50fa7b">- Projects </tspan><tspan fill="#6272a4">───────────────────────────────────</tspan></text>
+    <text x="423.6" y="511.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">E-commerce site:</tspan></text>
+    <text x="651.6" y="511.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="511.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://ecom-rho-livi…</text>
+    <text x="423.6" y="537.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Dynamic Traffic Management:</tspan></text>
+    <text x="783.6" y="537.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="537.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://fi…</text>
+    <text x="423.6" y="563.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">Business landPage:</tspan></text>
+    <text x="675.6" y="563.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="563.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://project-e0f…</text>
+    <text x="423.6" y="589.6" xml:space="preserve"><tspan fill="#6272a4">▪ </tspan><tspan fill="#ff79c6">SkillSwap:</tspan></text>
+    <text x="579.6" y="589.6" xml:space="preserve" fill="#6272a4">....</text>
+    <text x="984.0" y="589.6" xml:space="preserve" text-anchor="end" fill="#f8f8f2">https://skillswap.index-ary…</text>
+  </g>
+</svg>
+
 <!--
 **Aryu-dev-journey/Aryu-dev-journey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
